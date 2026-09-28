@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "inicio_semestre": "2024-04-01",
+        "fin_semestre": "2024-07-31",
+        "fecha_creacion": "2024-09-10",
+        "active": true
+    }
+]

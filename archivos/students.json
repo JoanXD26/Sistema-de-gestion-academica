@@ -1,0 +1,16 @@
+[
+    {
+        "id": "2400180077",
+        "nombre": "IVAN",
+        "apellido": "suarez",
+        "fecha_registro": "2024-09-07 Hora: 23:54:13",
+        "estado": true
+    },
+    {
+        "id": "1234567890",
+        "nombre": "joan",
+        "apellido": "lucifer",
+        "fecha_registro": "2024-09-08 Hora: 21:16:39",
+        "estado": true
+    }
+]

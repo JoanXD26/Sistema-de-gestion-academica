@@ -1,0 +1,52 @@
+{
+    "2400180077": {
+        "cedula": "2400180077",
+        "nombre": "IVAN",
+        "apellido": "suarez",
+        "nivel": "Nivel Tercer",
+        "materias": {
+            "Cuarto": [
+                "administracion"
+            ]
+        },
+        "notas": {
+            "parcial1": 20.0,
+            "parcial2": 10.0,
+            "examen_final": 20.0,
+            "recuperacion": 50.0
+        }
+    },
+    "1234567890": {
+        "cedula": "1234567890",
+        "nombre": "joan",
+        "apellido": "lucifer",
+        "nivel": "Nivel Primer",
+        "materias": {
+            "Primer": [
+                "calculo",
+                "introduccion",
+                "Algoritmo"
+            ],
+            "Cuarto": [
+                "estadistica",
+                "programacion",
+                "sistemas operativos",
+                "arquitectura",
+                "base de datos"
+            ],
+            "Tercer": [
+                "estructura"
+            ],
+            "Segundo": [
+                "algebra",
+                "tecnicas"
+            ]
+        },
+        "notas": {
+            "parcial1": 50.0,
+            "parcial2": 10.0,
+            "examen_final": 5.0,
+            "recuperacion": 10.0
+        }
+    }
+}

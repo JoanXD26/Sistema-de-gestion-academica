@@ -1,0 +1,139 @@
+[
+    
+    {
+        "id": 1,
+        "descripcion": "calculo",
+        "nivel": "Primer",
+        "profesor": "aristides",
+        "fecha_creacion": "2024-09-08",
+        "active": false
+    },
+    {
+        "id": 2,
+        "descripcion": "Algoritmo",
+        "nivel": "Primer",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 3,
+        "descripcion": "introduccion",
+        "nivel": "Primer",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 4,
+        "descripcion": "fisica",
+        "nivel": "Segundo",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 5,
+        "descripcion": "algebra",
+        "nivel": "Segundo",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 6,
+        "descripcion": "tecnicas",
+        "nivel": "Segundo",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 7,
+        "descripcion": "requerimientos",
+        "nivel": "Segundo",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 8,
+        "descripcion": "ecuaciones",
+        "nivel": "Tercer",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 9,
+        "descripcion": "discretas",
+        "nivel": "Tercer",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 10,
+        "descripcion": "estructura",
+        "nivel": "Tercer",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 11,
+        "descripcion": "modelamiento",
+        "nivel": "Tercer",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 12,
+        "descripcion": "base de datos",
+        "nivel": "Cuarto",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 13,
+        "descripcion": "administracion",
+        "nivel": "Cuarto",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 14,
+        "descripcion": "programacion",
+        "nivel": "Cuarto",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 15,
+        "descripcion": "sistemas operativos",
+        "nivel": "Cuarto",
+        "profesor": null,
+        "fecha_creacion": "2024-09-08",
+        "active": true
+    },
+    {
+        "id": 16,
+        "descripcion": "arquitectura",
+        "nivel": "Cuarto",
+        "profesor": "yo",
+        "fecha_creacion": "2024-09-09",
+        "active": true
+    },
+    {
+        "id": 17,
+        "descripcion": "estadistica",
+        "nivel": "Cuarto",
+        "profesor": "Aristides Calvo",
+        "fecha_creacion": "2024-09-09",
+        "active": true
+    }
+]

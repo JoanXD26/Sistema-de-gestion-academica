@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "nivel": "Primer Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "2",
+        "nivel": "Segundo Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "3",
+        "nivel": "Tercer Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "4",
+        "nivel": "Cuarto Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "5",
+        "nivel": "Quinto Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "6",
+        "nivel": "Sexto Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "7",
+        "nivel": "S\u00e9ptimo Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    },
+    {
+        "id": "8",
+        "nivel": "Octavo Semestre",
+        "fecha_creacion": "2024-09-08",
+        "active": "Activo"
+    }
+]

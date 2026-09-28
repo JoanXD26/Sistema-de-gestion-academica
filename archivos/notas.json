@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "periodo": "Primer",
+        "profesor": "profesor_example",
+        "asignatura": "asignatura_example",
+        "detalleNota": [],
+        "fecha_creacion": "2024-09-11",
+        "active": true,
+        "nota_final": 50.0
+    }
+]

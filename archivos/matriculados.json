@@ -1,0 +1,11 @@
+[
+    {
+        "cedula": "1234567890",
+        "nombre": "joan",
+        "apellido": "lucifer",
+        "nivel": "Nivel Primer",
+        "materias": [
+            "calculo"
+        ]
+    }
+]
